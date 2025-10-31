@@ -2,3 +2,12 @@
 # 脚本git 链接
 https://github.com/EvolvingLMMs-Lab/lmms-eval/blob/main/examples/models/qwen25vl.sh
 # 裸机环境安装
+#安装python
+sudo apt update
+sudo apt install python3 -y
+#安装pip
+sudo apt install python3-pip -y
+#运行查看python 是否安装成功
+pip3 --version
+# 运行脚本
+bash run_qwen3vl_eval.sh
