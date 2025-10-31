@@ -1,0 +1,4 @@
+# 测试qwen3-VL-8B-Instruct 的测试流程
+# 脚本git 链接
+https://github.com/EvolvingLMMs-Lab/lmms-eval/blob/main/examples/models/qwen25vl.sh
+# 裸机环境安装
